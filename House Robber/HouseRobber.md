@@ -20,5 +20,5 @@ Total amount you can rob = 2 + 9 + 1 = 12. <br>
  
 <b>Constraints:</b>
 
-`1 <= nums.length <= 100` <br>
-`0 <= nums[i] <= 400`
+- `1 <= nums.length <= 100` <br>
+- `0 <= nums[i] <= 400`
